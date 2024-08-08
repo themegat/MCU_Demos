@@ -1,6 +1,7 @@
 #ifndef __ESP8266_MCP23017_Demo_H__
 #define __ESP8266_MCP23017_Demo_H__
 
+// Wire and Adafruit_MCP23X17 libraries
 #include <Wire.h>
 #include <Adafruit_MCP23X17.h>
 

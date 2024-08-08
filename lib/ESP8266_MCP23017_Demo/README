@@ -6,6 +6,12 @@ This library is a basic demonstration of how to use a MCP23017 IO Expander with 
 ### *Todo*
  - Add wiring diagram
 
+## FYI 
+
+**This library uses and has a depedency on the Adafruit_MCP23X17 library.**
+
+The depedency has already been included in the *platformio.ini* configuration file.
+
 ## Usage
 
 To run the demo:
