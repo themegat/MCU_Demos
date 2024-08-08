@@ -3,9 +3,6 @@
 
 This library is a basic demonstration of how to use a MCP23017 IO Expander with a ESP8266 D1 mini to blink a LED. 
 
-### *Todo*
- - Add wiring diagram
-
 ## FYI 
 
 **This library uses and has a depedency on the Adafruit_MCP23X17 library.**
@@ -39,3 +36,7 @@ To run the demo:
       mcp23017Demo.loop();
     }
  ```
+
+ ## Schematic
+
+ ![schematic](../../docs/ESP8266_MCP23017_Demo/Schematic_MCU-Demos_2024-08-08.png)
