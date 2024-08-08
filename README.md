@@ -3,7 +3,7 @@
 "Some" *(just one at the moment)* example micro contoller demonstrations made in seperate libraries for convenience
 of setting up and running a demo. 
 
-The demos are locatated in the *lib* directory and the demo includes details and usage instrutions. 
+The demos are locatated in the *lib* directory and each demo includes details and usage instrutions. 
 
 ## FYI
 
