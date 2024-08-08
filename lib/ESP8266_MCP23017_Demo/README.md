@@ -39,4 +39,4 @@ To run the demo:
 
  ## Schematic
 
- ![schematic](../../docs/ESP8266_MCP23017_Demo/Schematic_MCU-Demos_2024-08-08.png)
+ ![schematic](./docs/Schematic_MCU-Demos_2024-08-08.png)
